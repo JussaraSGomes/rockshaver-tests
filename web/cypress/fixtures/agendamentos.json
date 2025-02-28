@@ -1,0 +1,53 @@
+{
+    "sucesso": {
+        "data": "29/01/2025",
+        "hora": "14:00",
+        "dia": "29",
+        "profissional": {
+            "nome": "Tina",
+            "matricula": "1003"
+        },
+        "servico": {
+            "codigo": 3,
+            "descricao": "Combo"
+        },
+        "usuario": {
+            "nome": "Jussara Santos",
+            "email": "jussara.santos@teste.com"
+        }
+    },
+    "conflito": {
+        "data": "01/02/2025",
+        "hora": "11:00",
+        "dia": "01",
+        "profissional": {
+            "nome": "Slash",
+            "matricula": "1007"
+        },
+        "servico": {
+            "codigo": 4,
+            "descricao": "Tintura"
+        },
+        "usuario": {
+            "nome": "Jussara Santos",
+            "email": "jussara.santos.teste@teste.com"
+        }
+    },
+    "duplicado": {
+        "data": "30/01/2025",
+        "hora": "16:00",
+        "dia": "30",
+        "profissional": {
+            "nome": "Jimi",
+            "matricula": "1006"
+        },
+        "servico": {
+            "codigo": 1,
+            "descricao": "Corte"
+        },
+        "usuario": {
+            "nome": "Murillo Gomes",
+            "email": "Murilo@teste.com"
+        }
+    }
+}
